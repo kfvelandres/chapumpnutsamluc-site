@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/17lg~c7fggl-8.css","style"]
+:HL["/_next/static/media/PlaypenSans_Regular-s.p.0qs~cvs7aqb1t.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"strolls","param":null,"prefetchHints":0,"slots":{"children":{"name":"mall","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"riLCeEQIbh4RdYIGN_nFB"}
